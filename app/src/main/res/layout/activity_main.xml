@@ -9,8 +9,8 @@
 
     <ListView
         android:id="@+id/CityListView"
-        android:layout_width="409dp"
-        android:layout_height="350dp"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
         android:entries="@array/cities"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
